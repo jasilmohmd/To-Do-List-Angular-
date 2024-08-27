@@ -1,21 +1,15 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Doctors Appointment",
-      "day": "May 5th at 2:30pm",
-      "checked": true
+      "id": "9a24",
+      "text": "Bilal's Wedding",
+      "day": "June 12th 10AM",
+      "checked": false
     },
     {
-      "id": "2",
-      "text": "Meeting at School",
-      "day": "May 6th at 2:30pm",
-      "checked": true
-    },
-    {
-      "id": "3",
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
+      "id": "7dee",
+      "text": "Priyan's Choroonu",
+      "day": "August 22th 10AM",
       "checked": false
     }
   ]
